@@ -1,0 +1,7 @@
+[package]
+name = "tildebot"
+version = "0.1.0"
+authors = ["tilde <t1lde@protonmail.com>"]
+
+[dependencies]
+egg-mode = "0.12.0"
